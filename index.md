@@ -38,7 +38,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 1. table of Contents.  
 You can use the button to see the contents [Contents](https://github.com/zhanghfan/learnPython/blob/master/markdown/contents.md)
 2. all the Code.  
-You can use the button to see the contents [Code](https://github.com/zhanghfan/learnPython/blob/master/code)
+You can use the button to see the code [Code](https://github.com/zhanghfan/learnPython/blob/master/code)
+3. data structures and algorithms [DSA](https://github.com/zhanghfan/learnPython/blob/master/dsa)
 
 ### Jekyll Themes
 
