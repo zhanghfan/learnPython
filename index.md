@@ -2,9 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/zhanghfan/learnPython/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### about Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -27,6 +25,13 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### about Python
+
+1. Python is a widely used interpreted, high-level programming, general-purpose programming language created by Gido Van Rossum, the first edition was released in 1991.
+2. Python's design philosophy emphasizes code readability and concise syntax (especially using space indentation to divide code blocks instead of using braces or keywords).
+3. Python allows developers to express ideas with less code than C++ or Java. Whether it is a small or large program, the language tries to make the structure of the program clear and clear.
+4. Python has a dynamic type system and garbage collection that automatically manages memory usage and supports multiple programming paradigms, including object-oriented, imperative, functional, and procedural programming. It has a large and extensive standard library of its own.
 
 ### Jekyll Themes
 
