@@ -36,7 +36,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Content
 
 1. table of Contents.  
-You can use the button to see the contents [Contents](https://github.com/zhanghfan/learnPython/edit/master/markdown/Contents.md)
+You can use the button to see the contents [Contents](https://github.com/zhanghfan/learnPython/edit/master/markdown/contents.md)
 2. all the Code.  
 You can use the button to see the contents [Code](https://github.com/zhanghfan/learnPython/edit/master/code)
 
