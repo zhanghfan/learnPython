@@ -33,6 +33,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 3. Python allows developers to express ideas with less code than C++ or Java. Whether it is a small or large program, the language tries to make the structure of the program clear and clear.
 4. Python has a dynamic type system and garbage collection that automatically manages memory usage and supports multiple programming paradigms, including object-oriented, imperative, functional, and procedural programming. It has a large and extensive standard library of its own.
 
+### Content
+
+1. table of Contents.  
+You can use the button to see the contents [Contents](https://github.com/zhanghfan/learnPython/edit/master/markdown/Contents.md)
+2. all the Code.  
+You can use the button to see the contents [Code](https://github.com/zhanghfan/learnPython/edit/master/code)
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhanghfan/learnPython/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
